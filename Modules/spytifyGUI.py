@@ -1,4 +1,4 @@
-# Form implementation generated from reading ui file 'spytify-client/Modules/spytify-gui.ui'
+# Form implementation generated from reading ui file 'spytify-client/Modules/spytifyGUI.ui'
 # Created by: PyQt5 UI code generator 5.5
 # WARNING! All changes made in this file will be lost!
 
@@ -339,4 +339,4 @@ class Ui_Interface(object):
         self.actionLogOut.setText(_translate("Interface", "Log Out"))
         self.actionExit.setText(_translate("Interface", "Exit"))
 
-import icons-rc
+import iconsRC

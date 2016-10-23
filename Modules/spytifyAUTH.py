@@ -1,4 +1,4 @@
-# Form implementation generated from reading ui file 'spytify-client/Modules/spytify-auth.ui'
+# Form implementation generated from reading ui file 'spytify-client/Modules/spytifyAUTH.ui'
 # Created by: PyQt5 UI code generator 5.5
 # WARNING! All changes made in this file will be lost!
 
@@ -117,4 +117,4 @@ class Ui_AuthenticationDialog(object):
         self.errortext.setText(_translate("AuthenticationDialog", "ErrorMessage"))
         self.successtext.setText(_translate("AuthenticationDialog", "SuccessMessage"))
 
-import icons-rc
+import iconsRC

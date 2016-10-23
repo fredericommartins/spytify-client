@@ -16,8 +16,8 @@ from sys import argv, exit, getsizeof
 from time import sleep
 from uuid import getnode
 
-from SpotipyAuthentication import Ui_AuthenticationDialog
-from SpotipyInterface import Ui_Interface
+from SpytifyAUTH import Ui_AuthenticationDialog
+from SpytifyGUI import Ui_Interface
 
 
 class Interface(QtWidgets.QMainWindow, Ui_Interface):
